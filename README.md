@@ -1,20 +1,28 @@
 markdown
-# 🐍 Python Code Playground
+# 🐍 The Python Code Playground
 
-Welcome to the central repository for native Python code files, built completely using mobile layout system configurations.
+Welcome to the central sandbox vault for native script files and experimental logic modules.
 
 ---
 
-## 📂 Code Index
+## 🎨 Visual System Index
 
-| Script Asset | Architectural Focus | System Integrity Status |
-| :--- | :--- | :---: |
-| [main.py](./main.py) | Interactive, Multi-Choice Decision Logic Text Engine | 🟢 Live & Locked |
+| Icon Anchor | Asset Target | Architectural Focus | Matrix Status |
+| :---: | :--- | :--- | :---: |
+| ![Lei](./assets/hawaiian-lei.png) | **[main.py](./main.py)** | Interactive Choice Adventure Logic Text Engine | 🟢 Live |
+| ![Flutes](./assets/champagne-flutes.png) | **[celebration.py](./celebration.py)** | Milestone Victory Tracking Script | 🟡 Queued |
+| ![Eyeful](./assets/eyeful.png) | **[visual-matrix.py](./visual-matrix.py)** | Image Link Mapping & Repository Asset Logic | 🟡 Queued |
+
+---
+
+## 🔬 Experimental Concept Sandbox
+* **Volumetric Query:** *Is a bootful bigger than a boatful, and how do they dynamically relate?*
+* **Tonal Target:** Injecting traditional "toot" sounds directly into structural code strings.
 
 ---
 
 ## 🎓 Executive Administration
-* **Lead Python Programmer:** `@Megabuckschuck` (Professor Gittles)
-* **Deployment Method:** 100% Mobile Interface Control
-* **Fidelity Rating:** Pure Performance
+* **Lead Architect:** `@Megabuckschuck` (Professor Gittles)
+* **Design Protocol:** 100% Mobile Interface Control (iPad Pro 11" M5 Grid)
+* **Framework Integration:** Showroom Quality. Use code with caution.
 Use code with caution.
