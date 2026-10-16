@@ -1,4 +1,5 @@
 markdown
+![System Header Banner](https://unsplash.com)
 # 🐍 The Python Code Playground
 
 Welcome to the central sandbox vault for native script files and experimental logic modules.
